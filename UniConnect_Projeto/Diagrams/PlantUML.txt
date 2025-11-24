@@ -1,0 +1,94 @@
+@startuml
+title **UniConnect – Diagrama de Domínio**
+
+' ========= ESTILO GLOBAL =========
+skinparam shadowing false
+skinparam nodesep 60
+skinparam ranksep 80
+skinparam defaultTextAlignment center
+skinparam classAttributeIconSize 0
+
+' ========= ESTEREÓTIPOS COM ÍCONES =========
+' (apenas texto — compatível com PlantUML online)
+skinparam class {
+BackgroundColor White
+BorderColor Black
+RoundCorner 25
+}
+
+' ========= CAMADA DE USUÁRIOS =========
+package "Camada de Usuários" <<Layer>
+	> {
+
+	class Aluno << (🎓,#ADD8E6) Usuario >> {
+}
+
+class Professor << (👨‍🏫,#FFD580) Usuario >> {
+}
+
+class Admin << (🛠️,#FF9999) Usuario >> {
+}
+
+}
+
+' ========= CAMADA DE DOMÍNIO =========
+package "Domínio Acadêmico" <<Layer>
+		> {
+
+		class Curso << (📘,#BDE0FE) Entidade >> {
+    + Id
+    + Nome
+}
+
+class Disciplina << (📗,#B9FBC0) Entidade >> {
+    + Id
+    + Nome
+}
+
+class Turma << (🏫,#FDE4CF) Entidade >> {
+    + Id
+    + Sigla
+}
+
+class TurmaAluno << (🔗,#FEEAFA) Relacao >> {
+}
+
+class TurmaProfessor << (🔗,#FEEAFA) Relacao >> {
+}
+
+}
+
+' ========= INFRAESTRUTURA =========
+package "Infraestrutura" <<Layer>
+			> {
+
+			class DataContext << (🗄️,#E0E0E0) EFCore >> {
+}
+
+}
+
+' ========== RELACIONAMENTOS VISUAIS ==========
+
+' Herança
+Aluno -[#blue,thickness=2]-> Usuario
+Professor -[#blue,thickness=2]-> Usuario
+Admin -[#blue,thickness=2]-> Usuario
+
+' Many-to-Manys
+Aluno "1" -- "0..*" TurmaAluno
+Turma "1" -- "0..*" TurmaAluno
+
+Professor "1" -- "0..*" TurmaProfessor
+Turma "1" -- "0..*" TurmaProfessor
+
+' Curso -> Disciplina -> Turma
+Curso "1" --> "1..*" Disciplina
+Disciplina "1" --> "1..*" Turma
+
+' Infraestrutura
+DataContext --> Curso
+DataContext --> Disciplina
+DataContext --> Turma
+DataContext --> TurmaAluno
+DataContext --> TurmaProfessor
+@enduml
