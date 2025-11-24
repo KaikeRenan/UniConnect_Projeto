@@ -9,12 +9,17 @@ Requisitos do Projeto:
 • Ideia: Plataforma para conectar alunos e professores, criar grupos de estudo e trocar materiais.
 
 • Conceitos:
+
   • Herança (Usuário → Aluno / Professor / Admin)
+  
   • Listas e LINQ para ranking e filtragem
+  
   • API REST com ASP.NET Core
+  
   • Persistência de dados
   
 • Pesquisa de Mercado:
+
   • Pesquisar sobre redes acadêmicas (ex: Moodle, Microsoft Teams Education) e propor uma funcionalidade inovadora.
   
 Grupo:
