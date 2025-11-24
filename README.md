@@ -2,13 +2,16 @@
 
 Projeto desenvolvido para P2 da disciplina de Plataforma de Desenvolvimento de Sistemas do 4° Termo do curso de Ciência da Computação
 
+
 Requisitos do Projeto:
 
 1. UniConnect – Rede Acadêmica Colaborativa
 
+
 • Ideia: Plataforma para conectar alunos e professores, criar grupos de estudo e trocar materiais.
 
-• Conceitos:
+
+Conceitos:
 
   • Herança (Usuário → Aluno / Professor / Admin)
   
@@ -17,10 +20,12 @@ Requisitos do Projeto:
   • API REST com ASP.NET Core
   
   • Persistência de dados
+
   
-• Pesquisa de Mercado:
+Pesquisa de Mercado:
 
   • Pesquisar sobre redes acadêmicas (ex: Moodle, Microsoft Teams Education) e propor uma funcionalidade inovadora.
+
   
 Grupo:
 
