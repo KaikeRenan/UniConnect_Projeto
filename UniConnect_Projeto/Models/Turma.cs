@@ -10,6 +10,5 @@
         public int IdCurso { get; set; }
         public ICollection<TurmaAluno> Alunos { get; set; } = new List<TurmaAluno>();
         public ICollection<TurmaProfessor> Professores { get; set; } = new List<TurmaProfessor>();
-
     }
 }

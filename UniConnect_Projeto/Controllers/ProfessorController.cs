@@ -9,7 +9,6 @@ namespace UniConnect_Projeto.Controllers
     public class ProfessorController : ControllerBase
     {
         private readonly ProfessorService _service;
-
         public ProfessorController(ProfessorService service)
         {
             _service = service;

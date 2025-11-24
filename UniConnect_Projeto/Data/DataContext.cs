@@ -6,27 +6,20 @@ namespace UniConnect_Projeto.Data
     public class DataContext : DbContext
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
-
         public DbSet<Usuario> UsuariosTable { get; set; }
         public DbSet<Aluno> AlunoTable { get; set; }
         public DbSet<Professor> ProfessorTable { get; set; }
         public DbSet<Admin> AdminTable { get; set; }
-
         public DbSet<Curso> CursosTable { get; set; }
         public DbSet<Disciplina> DisciplinaTable { get; set; }
         public DbSet<Turma> TurmaTable { get; set; }
-
         public DbSet<TurmaAluno> TurmaAlunoTable { get; set; }
         public DbSet<TurmaProfessor> TurmaProfessorTable { get; set; }
-
         public DbSet<GrupoEstudo> GrupoEstudoTable { get; set; }
         public DbSet<GrupoEstudoAluno> GrupoEstudoAlunoTable { get; set; }
-
         public DbSet<Material> MaterialTable { get; set; }
         public DbSet<MaterialLike> MaterialLikeTable { get; set; }
-
         public DbSet<RecomendacaoEstudo> RecomendacaoTable { get; set; }
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

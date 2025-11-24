@@ -9,7 +9,6 @@ namespace UniConnect_Projeto.Controllers
     public class AlunoController : ControllerBase
     {
         private readonly AlunoService _service;
-
         public AlunoController(AlunoService service)
         {
             _service = service;

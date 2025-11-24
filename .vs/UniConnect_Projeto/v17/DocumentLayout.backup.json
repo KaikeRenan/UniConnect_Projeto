@@ -1,7 +1,128 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kaike\\Desktop\\UniConnect_Projeto\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\kaike\\UniConnect_Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\services\\turmaprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\services\\turmaprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\services\\recomendacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\services\\recomendacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\services\\materialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\services\\materialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\services\\gruposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\services\\gruposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\services\\disciplinaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\services\\disciplinaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\models\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\models\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\models\\recomendacaoestudo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\models\\recomendacaoestudo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\models\\grupoestudo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\models\\grupoestudo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\dtos\\turma\\turmacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\dtos\\turma\\turmacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\dtos\\professor\\professorturmadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\dtos\\professor\\professorturmadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\dtos\\professor\\professordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\dtos\\professor\\professordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\dtos\\aluno\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\dtos\\aluno\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\dtos\\aluno\\alunocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\dtos\\aluno\\alunocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\controllers\\turmaprofessorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\controllers\\turmaprofessorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\controllers\\turmaalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\controllers\\turmaalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\controllers\\recomendacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\controllers\\recomendacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\controllers\\grupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\controllers\\grupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|c:\\users\\kaike\\uniconnect_projeto\\uniconnect_projeto\\diagrams\\uml.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F4E255A0-713D-44FA-8DD7-8CDB2E73B036}|UniConnect_Projeto\\UniConnect_Projeto.csproj|solutionrelative:uniconnect_projeto\\diagrams\\uml.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +130,400 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecomendacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\RecomendacaoService.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Services\\RecomendacaoService.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\RecomendacaoService.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Services\\RecomendacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:27:39.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\AlunoService.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Services\\AlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:25:02.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Models\\Turma.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Models\\Turma.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Models\\Turma.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Models\\Turma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:24:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Models\\Material.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Models\\Material.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Models\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:24:01.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GrupoEstudo.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Models\\GrupoEstudo.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Models\\GrupoEstudo.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Models\\GrupoEstudo.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Models\\GrupoEstudo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:23:46.661Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisciplinaService.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\DisciplinaService.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Services\\DisciplinaService.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\DisciplinaService.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Services\\DisciplinaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:08:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GrupoService.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\GrupoService.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Services\\GrupoService.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\GrupoService.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Services\\GrupoService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA0wAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:09:01.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaterialService.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\MaterialService.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Services\\MaterialService.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\MaterialService.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Services\\MaterialService.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:09:07.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurmaProfessorService.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\TurmaProfessorService.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Services\\TurmaProfessorService.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\TurmaProfessorService.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Services\\TurmaProfessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:16:05.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurmaService.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\TurmaService.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Services\\TurmaService.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\TurmaService.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Services\\TurmaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:13:52.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Models\\Admin.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:23:19.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TurmaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Dtos\\Turma\\TurmaCreateDto.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Dtos\\Turma\\TurmaCreateDto.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Dtos\\Turma\\TurmaCreateDto.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Dtos\\Turma\\TurmaCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:22:43.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfessorService.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\ProfessorService.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Services\\ProfessorService.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Services\\ProfessorService.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Services\\ProfessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:16:27.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfessorTurmaDto.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Dtos\\Professor\\ProfessorTurmaDto.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Dtos\\Professor\\ProfessorTurmaDto.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Dtos\\Professor\\ProfessorTurmaDto.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Dtos\\Professor\\ProfessorTurmaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:22:31.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProfessorDto.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Dtos\\Professor\\ProfessorDto.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Dtos\\Professor\\ProfessorDto.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Dtos\\Professor\\ProfessorDto.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Dtos\\Professor\\ProfessorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:22:21.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AlunoDto.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Dtos\\Aluno\\AlunoDto.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Dtos\\Aluno\\AlunoDto.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Dtos\\Aluno\\AlunoDto.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Dtos\\Aluno\\AlunoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:21:31.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AlunoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Dtos\\Aluno\\AlunoCreateDto.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Dtos\\Aluno\\AlunoCreateDto.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Dtos\\Aluno\\AlunoCreateDto.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Dtos\\Aluno\\AlunoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:21:24.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Data\\DataContext.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Data\\DataContext.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:21:05.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecomendacaoEstudo.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Models\\RecomendacaoEstudo.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Models\\RecomendacaoEstudo.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Models\\RecomendacaoEstudo.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Models\\RecomendacaoEstudo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:08:54.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TurmaProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\TurmaProfessorController.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Controllers\\TurmaProfessorController.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\TurmaProfessorController.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Controllers\\TurmaProfessorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:21:02.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TurmaAlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\TurmaAlunoController.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Controllers\\TurmaAlunoController.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\TurmaAlunoController.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Controllers\\TurmaAlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:06:42.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:06:24.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Controllers\\CursoController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:06:27.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DisciplinaController.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\DisciplinaController.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Controllers\\DisciplinaController.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\DisciplinaController.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Controllers\\DisciplinaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:06:30.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GrupoController.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\GrupoController.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Controllers\\GrupoController.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\GrupoController.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Controllers\\GrupoController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:06:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MaterialController.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\MaterialController.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Controllers\\MaterialController.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\MaterialController.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Controllers\\MaterialController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:06:35.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Controllers\\ProfessorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:06:37.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RecomendacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\RecomendacaoController.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Controllers\\RecomendacaoController.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\RecomendacaoController.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Controllers\\RecomendacaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:06:40.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TurmaController.cs",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\TurmaController.cs",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Controllers\\TurmaController.cs",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Controllers\\TurmaController.cs",
+              "RelativeToolTip": "UniConnect_Projeto\\Controllers\\TurmaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:06:45.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UML.png - PNG [1237x826, 24 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Diagrams\\UML.png",
+              "RelativeDocumentMoniker": "UniConnect_Projeto\\Diagrams\\UML.png",
+              "ToolTip": "C:\\Users\\kaike\\UniConnect_Projeto\\UniConnect_Projeto\\Diagrams\\UML.png - PNG [1237x826, 24 bits, PNG]",
+              "RelativeToolTip": "UniConnect_Projeto\\Diagrams\\UML.png - PNG [1237x826, 24 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-11-24T02:05:38.178Z",
+              "EditorCaption": " - PNG [1237x826, 24 bits, PNG]"
             }
           ]
         }

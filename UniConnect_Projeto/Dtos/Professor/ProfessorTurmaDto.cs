@@ -6,6 +6,5 @@ public class ProfessorTurmaDto
     public string Sigla { get; set; }
     public int Ano { get; set; }
     public int Termo { get; set; }
-
     public string CursoNome { get; set; }
 }

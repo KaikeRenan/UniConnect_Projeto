@@ -9,7 +9,6 @@ namespace UniConnect_Projeto.Controllers
     public class TurmaAlunoController : ControllerBase
     {
         private readonly TurmaAlunoService _service;
-
         public TurmaAlunoController(TurmaAlunoService service)
         {
             _service = service;

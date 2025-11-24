@@ -40,7 +40,6 @@ namespace UniConnect_Projeto.Services
 
         public async Task<DisciplinaDto> Create(DisciplinaCreateDto dto)
         {
-            // Verificar se o curso existe
             var curso = await _context.CursosTable.FindAsync(dto.CursoId);
             if (curso == null)
                 throw new Exception($"Curso com ID {dto.CursoId} não existe.");

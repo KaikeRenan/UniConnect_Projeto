@@ -5,6 +5,7 @@ using UniConnect_Projeto.Models;
 public class RecomendacaoService
 {
     private readonly DataContext _context;
+
     public RecomendacaoService(DataContext context) => _context = context;
 
     public async Task<List<RecomendacaoEstudo>> GerarParaAlunoAsync(int alunoId)

@@ -5,6 +5,7 @@ using UniConnect_Projeto.Models;
 public class GrupoService
 {
     private readonly DataContext _context;
+
     public GrupoService(DataContext context) => _context = context;
 
     public async Task<GrupoDto> CreateAsync(GrupoCreateDto dto)
@@ -24,7 +25,6 @@ public class GrupoService
         _context.GrupoEstudoTable.Add(grupo);
         await _context.SaveChangesAsync();
 
-        // add creator as member + moderador
         _context.GrupoEstudoAlunoTable.Add(new GrupoEstudoAluno
         {
             GrupoId = grupo.Id,

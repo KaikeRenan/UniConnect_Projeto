@@ -9,7 +9,6 @@ namespace UniConnect_Projeto.Controllers
     public class DisciplinaController : ControllerBase
     {
         private readonly DisciplinaService _service;
-
         public DisciplinaController(DisciplinaService service)
         {
             _service = service;

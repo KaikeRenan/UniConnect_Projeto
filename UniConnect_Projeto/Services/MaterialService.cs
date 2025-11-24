@@ -5,6 +5,7 @@ using UniConnect_Projeto.Models;
 public class MaterialService
 {
     private readonly DataContext _context;
+
     public MaterialService(DataContext context) => _context = context;
 
     public async Task<MaterialDto> CreateAsync(MaterialCreateDto dto)
