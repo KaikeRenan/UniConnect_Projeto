@@ -1,0 +1,6 @@
+@UniConnect_Projeto_HostAddress = http://localhost:5076
+
+GET {{UniConnect_Projeto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
